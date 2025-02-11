@@ -129,6 +129,9 @@
 /*(max-width: 991px)*/
 
 @media (max-width: 767px) {
+  .bg-wrapper .tabs{
+    padding:0 !important;
+  }
   .video-banner{
     padding: 20px 0 !important;
   }
