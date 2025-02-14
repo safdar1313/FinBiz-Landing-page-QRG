@@ -127,7 +127,9 @@
 /*(max-width: 991px)*/
 
 @media (max-width: 767px) {
+  .card-style-twenty:{height:330px !important;}
   .hero-banner-seven{padding: 100px 0 50px;}
+  .hero-banner-seven .text{height:310px !important; overflow:hidden;}
   .tabs{padding: 0 !important;}
   .video-banner{
     padding: 20px 0 !important;
