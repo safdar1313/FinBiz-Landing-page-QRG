@@ -127,7 +127,10 @@
 /*(max-width: 991px)*/
 
 @media (max-width: 767px) {
-  .block-feature-fourteen .card-style-twenty:{height:330px !important;}
+  .card-style-twenty
+  {
+    height: 330px !important;
+  }
   .card-style-twenty .text{height:310px !important; overflow:hidden;}
   .hero-banner-seven{padding: 100px 0 50px;}
   .tabs{padding: 0 !important;}
